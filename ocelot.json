@@ -38,7 +38,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "routine-service-pod",
-          "Port": 80
+          "Port": 5015
         }
       ],
       "UpstreamPathTemplate": "/routines",
@@ -53,7 +53,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "routine-service-pod",
-          "Port": 80
+          "Port": 5015
         }
       ],
       "UpstreamPathTemplate": "/routines/{everything}",
