@@ -43,7 +43,8 @@
       ],
       "UpstreamPathTemplate": "/routines",
       "UpstreamHttpMethod": [
-        "POST"
+        "POST",
+        "GET"
       ]
     },
     {
