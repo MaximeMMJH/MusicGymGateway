@@ -37,7 +37,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "routine-service",
+          "Host": "routine-service-pod",
           "Port": 80
         }
       ],
@@ -52,7 +52,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "routine-service",
+          "Host": "routine-service-pod",
           "Port": 80
         }
       ],
